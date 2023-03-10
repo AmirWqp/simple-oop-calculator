@@ -72,7 +72,7 @@ namespace Calculator
                 }
 
                 Console.WriteLine($"Your resulat is : {resulat}");
-                Console.WriteLine("If You Want To Quiet Press \"N\" : ");
+                Console.WriteLine("If You Want To Quit Press \"N\" : ");
                 ans = Console.ReadLine().ToUpper();
 
             }
